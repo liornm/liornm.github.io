@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## ![Image](https://liornm.me/img/Bluetooth.svg) Breaking the Bluetooth Pairing
 
-You can use the [editor on GitHub](https://github.com/liornm/liornm.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The pairing protocol is the process of connection establishment in Bluetooth. This process supplies the ground for all of the security and privacy features provided by Bluetooth. Failing to secure this process compromises the entire Bluetooth session.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In my research I had devwloped a technique for attacking the Bluetooth pairing protocol by manipulating specific messages, without being detected by the victim devices. This attack relies on a newly discovered protocol design flaws. Using this attack, one can exploit these flaws in order to reveal the encryption keys of the victim devices and use it  to decrypt and forge data without user awareness.
 
 ### Markdown
 
