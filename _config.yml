@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: "Lior Neumann"
+description: [A short description of your site's purpose]
+logo: "https://liornm.me/img/face_blur_circle.png"
+show_downloads: "true"
