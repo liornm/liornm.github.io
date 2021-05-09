@@ -9,6 +9,10 @@ The [paper](https://www.springerprofessional.de/en/breaking-the-bluetooth-pairin
 Popular [summary](https://hackernoon.com/bluetooth-hacking-cheating-in-elliptic-curve-billiards-c092fdf70aae) of our attack by Tal Be'ery.
 
 The work is part of my thesis at the Technion - Israel Institute of Technology.
+
+<p align="center">
+<img src="https://hackernoon.com/hn-images/0*GMcxKW7nw5k0gFRt" alt="drawing" width="200"/></p>
+
 ### Bluetooth SIG Standard Change
 Due to our publication the Bluetooth Special Intrest Group released a change to the Bluetooth Core Specification (the Bluetooth standard) denoted by ``Erratum 10734: Pairing
 Updates``, see the complete change [here](https://www.bluetooth.org/docman/handlers/downloaddoc.ashx?doc_id=447440).
