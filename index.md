@@ -11,7 +11,7 @@ Popular [summary](https://hackernoon.com/bluetooth-hacking-cheating-in-elliptic-
 The work is part of my thesis at the Technion - Israel Institute of Technology.
 
 <p align="center">
-<img src="https://hackernoon.com/hn-images/0*GMcxKW7nw5k0gFRt" alt="drawing" width="200"/></p>
+<img src="img/bt_ppls.png" alt="drawing" width="200"/></p>
 
 ### Bluetooth SIG Standard Change
 Due to our publication the Bluetooth Special Intrest Group released a change to the Bluetooth Core Specification (the Bluetooth standard) denoted by ``Erratum 10734: Pairing
