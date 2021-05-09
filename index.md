@@ -25,7 +25,7 @@ Updates``, see the complete change [here](https://www.bluetooth.org/docman/handl
 | ------------- |-------------| -----|
 | Intel | Dual Band Wireless-AC 3160, Wireless-N 7260, Dual Band Wireless-N 7260, Dual Band Wireless-AC 7260, Dual Band Wireless-AC 3165, Dual Band Wireless-AC 3168, ... | [link](https://www.intel.com/content/www/us/en/security-center/advisory/intel-sa-00128.html) |
 | Qualcomm | AR9344, MDM9206, MDM9607, MDM9635M, MDM9640, MDM9650, MSM8909W, MSM8996AU, QCA6174A, QCA6564, QCA6574, QCA6574AU, QCA9377, QCA9379, QCA9886, ... | [link](https://www.qualcomm.com/company/product-security/bulletins/archives/august-2018#_CVE-2018-5383) |
-| Broadcom | BCM4339, BCM4358, and probably many more... | No official publication. |
+| Broadcom | BCM4339, BCM4358, ... | No official publication. |
 
 ### In the News
 * [Forbes](https://www.forbes.com/sites/thomasbrewster/2018/07/24/bluetooth-hack-warning-for-iphone-android-and-windows/?sh=7fb9884f7d73)
