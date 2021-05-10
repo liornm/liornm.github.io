@@ -2,7 +2,7 @@
 
 The pairing protocol is the process of connection establishment in Bluetooth. This process supplies the ground for all of the security and privacy features provided by Bluetooth. Failing to secure this process compromises the entire Bluetooth session.
 
-Based on newly discovered protocol design flaws, we have developed a technique for attacking the Bluetooth pairing protocol by manipulating specific protocol messages. The attack can be used in order to evesdrop to any Bluetooth session and forge messages without user awareness.
+Based on newly discovered protocol design flaws ([CVE-2018-5383](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-5383)), we have developed a technique for attacking the Bluetooth pairing protocol by manipulating specific protocol messages. The attack can be used in order to evesdrop to any Bluetooth session and forge messages without user awareness.
 
 The [paper](https://www.springerprofessional.de/en/breaking-the-bluetooth-pairing-the-fixed-coordinate-invalid-curv/17554980) published at the Selected Areas in Cryptography (SAC) '19 conference.
 
