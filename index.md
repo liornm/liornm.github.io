@@ -1,3 +1,5 @@
+<link rel="shortcut icon" type="image/png" href="img/face_blur_circle.png?">
+
 ## <img src="img/Bluetooth.svg" alt="drawing" width="11"/> Breaking the Bluetooth Pairing
 
 The pairing protocol is the process of connection establishment in Bluetooth. This process supplies the ground for all of the security and privacy features provided by Bluetooth. Failing to secure this process compromises the entire Bluetooth session.
