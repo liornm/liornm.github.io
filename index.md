@@ -18,11 +18,11 @@ As a result of our publication, the Bluetooth Special Intrest Group released a c
 
 ### Affected Operating Systems
 
-| Vendor        | Product                           | Ref                                                             |
+| Vendor        | Products                          | Ref                                                             |
 | ------------- |-----------------------------------|-----------------------------------------------------------------|
-| Apple  | macOS High Sierra 10.13.6 and below      | [link](https://support.apple.com/en-us/HT208937)                |
-| Apple  | iOS 11.4 and below                       | [link](https://support.apple.com/en-us/HT208848)                |
-| Google | Android (AOSP) Security Patch 2018-06-01 | [link](https://source.android.com/security/bulletin/2018-06-01) |
+| Apple  | macOS High Sierra 10.13.6 and below             | [link](https://support.apple.com/en-us/HT208937)                |
+| Apple  | iOS 11.4 and below                              | [link](https://support.apple.com/en-us/HT208848)                |
+| Google | Android (AOSP) before Security Patch 2018-06-01 | [link](https://source.android.com/security/bulletin/2018-06-01) |
 
 ### Affected Wireless Chips
 
