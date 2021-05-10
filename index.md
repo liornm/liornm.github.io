@@ -10,7 +10,7 @@ The [paper](https://www.springerprofessional.de/en/breaking-the-bluetooth-pairin
 
 Popular [summary](https://hackernoon.com/bluetooth-hacking-cheating-in-elliptic-curve-billiards-c092fdf70aae) of our attack by Tal Be'ery.
 
-The work is part of my thesis at the Technion - Israel Institute of Technology.
+The work is part of my thesis at the Technion - Israel Institute of Technology, with special thanks to my thesis advisor Prof. Eli Biham.
 
 <p align="center">
 <img src="img/bt_ppls.png" alt="drawing" width="200"/></p>
