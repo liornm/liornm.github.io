@@ -4,7 +4,7 @@ The pairing protocol is the process of connection establishment in Bluetooth. Th
 
 Based on newly discovered protocol design flaws, we have developed a technique for attacking the Bluetooth pairing protocol by manipulating specific protocol messages. The attack can be used in order to evesdrop to any Bluetooth session and forge messages without user awareness.
 
-The [paper](https://www.springerprofessional.de/en/breaking-the-bluetooth-pairing-the-fixed-coordinate-invalid-curv/17554980) was published in the Selected Areas in Cryptography (SAC) '19 conference.
+The [paper](https://www.springerprofessional.de/en/breaking-the-bluetooth-pairing-the-fixed-coordinate-invalid-curv/17554980) published at the Selected Areas in Cryptography (SAC) '19 conference.
 
 Popular [summary](https://hackernoon.com/bluetooth-hacking-cheating-in-elliptic-curve-billiards-c092fdf70aae) of our attack by Tal Be'ery.
 
