@@ -1,4 +1,7 @@
+
+<head profile="http://www.w3.org/2005/10/profile">
 <link rel="shortcut icon" type="image/png" href="img/face_blur_circle.png?">
+</head>
 
 ## <img src="img/Bluetooth.svg" alt="drawing" width="11"/> Breaking the Bluetooth Pairing
 
