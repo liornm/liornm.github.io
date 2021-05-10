@@ -18,7 +18,7 @@ As a result of our publication, the Bluetooth Special Intrest Group released a c
 
 ### Affected Operating Systems
 
-| Vendor        | Products                          | Ref                                                             |
+| Vendor        | Product                           | Ref                                                             |
 | ------------- |-----------------------------------|-----------------------------------------------------------------|
 | Apple  | macOS High Sierra 10.13.6 and below      | [link](https://support.apple.com/en-us/HT208937)                |
 | Apple  | iOS 11.4 and below                       | [link](https://support.apple.com/en-us/HT208848)                |
