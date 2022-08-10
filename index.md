@@ -2,7 +2,7 @@
 
 I am passionate problem solver.
 
-I built my first computer when I was eleven and tought myself basic progamming. When I was fifteen, out of curiosity, I enrolled for the Computer Science program at the University of Haifa. I then spent six years at the IDF, during which I completed [MSc](https://eprint.iacr.org/2019/1043) in Computer Science at the Technion - Israel Institute of Technology.
+I built my first computer when I was eleven and tought myself basic progamming. When I was fifteen, out of curiosity, I enrolled for the Computer Science program at the University of Haifa. I then spent six years at the IDF, during which I completed my [MSc](https://eprint.iacr.org/2019/1043) in Computer Science at the Technion - Israel Institute of Technology.
 
 My two role models are my grandfathers, Joseph Neumann, who was a holloucust survivor who became Biology professor and a political figure, and Nissim Cohen, who founded a Kibbutz ([Ma'agan Michael](https://en.wikipedia.org/wiki/Ma%27agan_Michael)) and a $500M company ([Plasson](https://en.wikipedia.org/wiki/Plasson)).
 
