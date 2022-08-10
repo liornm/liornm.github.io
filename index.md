@@ -1,10 +1,10 @@
 ## Who am I?
 
-I was born in a small [kibbutz](https://en.wikipedia.org/wiki/Kibbutz), in Israel. I built my first computer when I was 11 and tought myself basic progamming. At the age of fifteen, out of curiosity, I enrolled for the Computer Science program at the University of Haifa, and graduated when I was nineteen. I then spent six years at the IDF, during which I completed MSc in Computer Science at the Technion - Israel Institute of Technology.
+I am passionate problem solver.
+
+I built my first computer when I was eleven and tought myself basic progamming. When I was fifteen, out of curiosity, I enrolled for the Computer Science program at the University of Haifa. I then spent six years at the IDF, during which I completed [MSc](https://eprint.iacr.org/2019/1043) in Computer Science at the Technion - Israel Institute of Technology.
 
 My two role models in life are my grandfathers, Joseph Neumann, who was a holloucust survivor who became Biology professor and a political figure, and Nissim Cohen, who founded a Kibbutz ([Ma'agan_Michael](https://en.wikipedia.org/wiki/Ma%27agan_Michael)) and a $500M company (https://en.wikipedia.org/wiki/Plasson).
-
-I am passionate problem solver.
 
 ## Breaking the Bluetooth Pairing
 
